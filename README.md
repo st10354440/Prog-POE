@@ -1,1 +1,15 @@
-# Prog-POE
+The Recipe Filter application offers a simple and intuitive way to search for recipes based on specific criteria, providing users with a hassle-free experience in discovering meals tailored to their preferences. Utilizing a graphical user interface (GUI) built with Windows Presentation Foundation (WPF), the application streamlines the process of finding recipes by allowing users to filter them according to various parameters.
+
+Upon launching the application, users are greeted with a neatly organized interface, comprising essential elements for input and interaction. The main window displays a set of input fields, including a text box for entering ingredients, a combo box for selecting food groups, and a slider for specifying the maximum number of calories desired in the recipes.
+
+To begin their search for recipes, users can input the name of an ingredient they wish to include in their meal. The application dynamically updates the displayed recipes as the user types, providing instant feedback and simplifying the process of finding relevant recipes. Additionally, users can narrow down their search by selecting a specific food group from the dropdown menu, further refining the list of displayed recipes to match their dietary preferences.
+
+For those conscious of their calorie intake, the application offers a convenient slider that allows users to set a maximum limit on the number of calories per serving. By adjusting the slider to their desired value, users can filter out recipes exceeding their calorie threshold, ensuring that all displayed options align with their dietary requirements.
+
+Once users have input their desired criteria, they simply need to click the "Filter Recipes" button to initiate the search process. Behind the scenes, the application utilizes the provided parameters to filter the master list of recipes, removing any entries that do not meet the specified criteria. The updated list is then seamlessly displayed in the designated area of the interface, presenting users with a curated selection of recipes tailored to their preferences.
+
+Navigating through the filtered list of recipes is straightforward, with the application providing a user-friendly interface for browsing and selecting desired options. Each recipe is presented in a clear and concise format, showcasing essential details such as the recipe name, list of ingredients, associated food group, and calorie count per serving. Users can easily scroll through the list to explore different options or click on a specific recipe to view more detailed information.
+
+In addition to facilitating recipe discovery, the application also promotes a seamless user experience by incorporating interactive elements and real-time updates. The dynamic nature of the interface ensures that users receive immediate feedback as they interact with various elements, enhancing engagement and overall satisfaction with the application.
+
+In conclusion, the Recipe Filter application offers a user-friendly solution for discovering and selecting recipes based on specific criteria. By leveraging the capabilities of WPF and incorporating intuitive design principles, the application provides users with a streamlined experience that simplifies the process of finding and selecting meals tailored to their preferences and dietary requirements.
