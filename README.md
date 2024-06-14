@@ -12,4 +12,3 @@ Navigating through the filtered list of recipes is straightforward, with the app
 
 In addition to facilitating recipe discovery, the application also promotes a seamless user experience by incorporating interactive elements and real-time updates. The dynamic nature of the interface ensures that users receive immediate feedback as they interact with various elements, enhancing engagement and overall satisfaction with the application.
 
-In conclusion, the Recipe Filter application offers a user-friendly solution for discovering and selecting recipes based on specific criteria. By leveraging the capabilities of WPF and incorporating intuitive design principles, the application provides users with a streamlined experience that simplifies the process of finding and selecting meals tailored to their preferences and dietary requirements.
